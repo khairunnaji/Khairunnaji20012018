@@ -20,4 +20,14 @@ cout<<"\n\t\t\tNAMA      : Khairunnaji\n";
 cout<<"\t\t\tNPM       : 16630286\n";
 cout<<"\t\t\tPROGRAM   : Teknik Informtika\n";
 cout<<"\t\t\tTentang   : Crush Gear\n"; 
+
+	cout<<"\t\t\t\n";
+	GarudaEagle.frontweapon = "Pedang ";
+	DinoSpartan.frontweapon = "Duo GEAR ";
+	ThunderBreaker.frontweapon = "TOMBAK ";
+	
+	cout << (GarudaEagle.frontweapon);
+	GarudaEagle.bemotoran("Namanya");
+	GarudaEagle.bemotoran("Special");
 }
+
