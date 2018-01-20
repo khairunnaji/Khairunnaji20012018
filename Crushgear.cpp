@@ -15,4 +15,9 @@ class CrushGear{
 
 
 int main() {
+		CrushGear GarudaEagle , DinoSpartan, ThunderBreaker;
+cout<<"\n\t\t\tNAMA      : Khairunnaji\n";
+cout<<"\t\t\tNPM       : 16630286\n";
+cout<<"\t\t\tPROGRAM   : Teknik Informtika\n";
+cout<<"\t\t\tTentang   : Crush Gear\n"; 
 }
