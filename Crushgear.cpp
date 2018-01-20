@@ -30,4 +30,6 @@ cout<<"\t\t\tTentang   : Crush Gear\n";
 	GarudaEagle.bemotoran("Namanya");
 	GarudaEagle.bemotoran("Special");
 }
-
+void CrushGear::bemotoran(string main){
+	cout<<"Garuda Eagle kawa Mengeluarkan Jurus "<<main<<" Shining Sword Breaker"<<endl;
+}
